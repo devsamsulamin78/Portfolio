@@ -1,0 +1,23 @@
+
+
+*,
+::before,
+::after {
+    box-sizing: border-box;
+}
+
+
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #010101;
+}
+
+  
+
+
+
+.content_style {
+    margin: 0px 40px;
+}
